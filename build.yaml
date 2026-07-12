@@ -6,7 +6,7 @@
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
 board: [ "nice_nano" ]
-shield: [ "crado_left", "crado_right", "settings_reset" ]
+shield: [ "cradio_left", "cradio_right", "settings_reset" ]
 # include:
 #   - board: bdn9_rev2
 #   - board: nice_nano
